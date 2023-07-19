@@ -112,7 +112,7 @@
                         코스포 주관 기업방문 프로그램 진행 관련입니다.&nbsp;
                     </li>
                     <li>
-                        스타트업 입주공간을 방문하고 업무환경을 경험하면서, 현직 개발자와 멘토링 및 네트워킹을 할 수 있는 좋은 기회입니.
+                        스타트업 입주공간을 방문하고 업무환경을 경험하면서, 현직 개발자와 멘토링 및 네트워킹을 할 수 있는 좋은 기회입니다.
                     </li>
                     <li>
                         참여대학별 최대 5명까지 신청이 가능하며, 7월 26부터 접수 페이지가 오픈될 예정입니다.&nbsp;
@@ -122,9 +122,6 @@
                     </li>
                     <li>
                         프로그램 상세 페이지 : <a href="https://perfect-starflower-b0d.notion.site/e56570ec71764f49ae007a801632a209">https://perfect-starflower-b0d.notion.site/e56570ec71764f49ae007a801632a209</a>
-                        <br>
-                        <br>
-                        &nbsp;
                     </li>
                 </ul>
                 <figure class="table">
